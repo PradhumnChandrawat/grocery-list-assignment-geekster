@@ -1,0 +1,45 @@
+.grocery-bud {
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  padding: 20px;
+  width: 100%;
+  max-width: 500px;
+}
+
+h2 {
+  color: #333;
+  text-align: center;
+}
+
+.input-div {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.inp-text {
+  flex-grow: 1;
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.btn {
+  padding: 10px 20px;
+  background-color: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #27ae60;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
